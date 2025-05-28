@@ -20,3 +20,7 @@ Used by libraries requiring `std::initializer_list`, such as the Modbus library�
 #include <Slaves.h>
 
 Slaves slaves({1, 2, 3}); // Initialize with slave IDs 1, 2, 3
+
+initializer_list/
+├── src/initializer_list
+├── README.md
