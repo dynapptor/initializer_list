@@ -24,3 +24,6 @@ Slaves slaves({1, 2, 3}); // Initialize with slave IDs 1, 2, 3
 initializer_list/
 ├── src/initializer_list
 ├── README.md
+
+License
+Licensed under the GNU General Public License v3 with the GCC Runtime Library Exception, version 3.1. See initializer_list for details.
