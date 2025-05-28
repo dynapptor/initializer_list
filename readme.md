@@ -27,3 +27,6 @@ initializer_list/
 
 License
 Licensed under the GNU General Public License v3 with the GCC Runtime Library Exception, version 3.1. See initializer_list for details.
+
+Acknowledgments
+Based on the GCC implementation, adapted for AVR compatibility.
